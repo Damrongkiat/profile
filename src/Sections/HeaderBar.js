@@ -9,7 +9,7 @@ function HeaderBar() {
       <Navbar bg="dark" variant="dark">
         <Container>
           <Link to="/" style={{ textDecoration: "none" }}>
-            <Navbar.Brand>Profiles</Navbar.Brand>
+            <Navbar.Brand>Profile</Navbar.Brand>
           </Link>
           <Nav className="me-auto">
             <Navbar.Text>
