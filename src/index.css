@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.avatar-image{
+  width: 200px;
+  border-radius: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+.imagehobbies {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #000;
+  
+}
+.narrow {
+  width: 100%;
+  aspect-ratio: 16/9;
+}
+.cover {
+  object-fit: cover;
+}
+.frame-hobbies:before{
+  content: '';
+  display: block;
+  position: absolute;
+  background-image: 
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      rgb(0, 0, 0)
+    );
+  width: 100%;
+  top: 50px;
+  height: 100%;
+}
+.topicban{
+  position: relative;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.topicner{
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.topicname{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.topicbanner{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+hr.red {
+  border: 2px solid red;
+}
+hr.green {
+  border: 2px solid green;
+}
+hr.blue {
+  border: 2px solid blue;
+}
+hr.yellow {
+  border: 2px solid yellow;
+}
+hr.purple {
+  border: 2px solid purple;
+}
+hr.orange {
+  border: 2px solid orange;
+}hr.black {
+  border: 2px solid black;
+}
+.headimage{
+  position: relative;
+  height: 250px;
+  top: 0;
+  left: 0;
+}
+.headimage img{
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  object-position:bottom;
+}
+.headimage h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.layoutwarp{
+  position: relative;
+}.layoutwarp:before{
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.1;
+  background-image: url('../src/Image/bgimage.png');
+  background-repeat: repeat;
+  background-position: center;
+  background-size: cover;
+}
+.layoutbg{
+  opacity: 0.1;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  background-repeat: repeat-y;
+}
+.layoutcontent{
+  position: relative;
+}
+
+.navbarpage {
+  padding-left: 8px;
+  text-decoration: none;
+}
