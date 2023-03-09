@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.9f8a330f.css",
+    "main.js": "/profile/static/js/main.c40d6d31.js",
+    "static/js/787.783ecf98.chunk.js": "/profile/static/js/787.783ecf98.chunk.js",
+    "static/media/avatar.jpg": "/profile/static/media/avatar.d2ef002476609b6da045.jpg",
+    "static/media/head.jpg": "/profile/static/media/head.71d5035e99408c539c4b.jpg",
+    "static/media/socialmedia.jpg": "/profile/static/media/socialmedia.826941b3bc80165634bb.jpg",
+    "static/media/bgimage.png": "/profile/static/media/bgimage.8718d7376a7cc8f35ac9.png",
+    "static/media/Buu-logo.png": "/profile/static/media/Buu-logo.67b91909281b5c4f7431.png",
+    "static/media/anime.jpg": "/profile/static/media/anime.b817848001ceab757192.jpg",
+    "static/media/manga.jpg": "/profile/static/media/manga.9c482445e403fabff05c.jpg",
+    "static/media/game.jpg": "/profile/static/media/game.c5061bbd896c8bbfac7d.jpg",
+    "static/media/PHP Logo.svg": "/profile/static/media/PHP Logo.f432bd3b39daf8d9c42e06cb29beefe5.svg",
+    "static/media/topicban.png": "/profile/static/media/topicban.7e95ebde071706873a72.png",
+    "static/media/MySQL Logo.svg": "/profile/static/media/MySQL Logo.2cfbd8c8308f4391029c8403d76eace4.svg",
+    "static/media/Firebase Logo.svg": "/profile/static/media/Firebase Logo.4d1511982aab4c202664c0ab14217590.svg",
+    "static/media/notification.svg?s3g3t9": "/profile/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/Java Logo.svg": "/profile/static/media/Java Logo.b5e184a5568353ec53945464b4363cee.svg",
+    "static/media/notification.eot": "/profile/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/Bootstrap Logo.svg": "/profile/static/media/Bootstrap Logo.3a162f65200426203695ee878e6b62fb.svg",
+    "static/media/notification.woff?s3g3t9": "/profile/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/profile/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "static/media/CSS3 Logo.svg": "/profile/static/media/CSS3 Logo.632b6d133bdfb6cde391377b68148070.svg",
+    "static/media/JavaScript Logo.svg": "/profile/static/media/JavaScript Logo.61c1fa6b2ee4eb8ce8d0e0c25ab67854.svg",
+    "index.html": "/profile/index.html",
+    "static/media/HTML5 Logo.svg": "/profile/static/media/HTML5 Logo.cf51b3879972e0e8c0c9be2135162847.svg",
+    "static/media/React Logo.svg": "/profile/static/media/React Logo.fff4fd514ba20a042d2cd63734178e6a.svg",
+    "main.9f8a330f.css.map": "/profile/static/css/main.9f8a330f.css.map",
+    "main.c40d6d31.js.map": "/profile/static/js/main.c40d6d31.js.map",
+    "787.783ecf98.chunk.js.map": "/profile/static/js/787.783ecf98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8a330f.css",
+    "static/js/main.c40d6d31.js"
+  ]
+}
