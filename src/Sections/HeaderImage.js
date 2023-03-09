@@ -4,7 +4,7 @@ export default function HeaderImage() {
     <div>
       <div className="headimage">
         <img src={headerbg} />
-        <h1>Welcomes</h1>
+        <h1>Welcome</h1>
       </div>
     </div>
   );
